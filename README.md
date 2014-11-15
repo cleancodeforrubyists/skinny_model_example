@@ -1,6 +1,6 @@
 Skinny Models Example
 ====================
-Example code for skinny models blog post on [codeshoppe.io](codeshoppe.io).
+Example code for skinny models blog post on [codeshoppe.io](http://codeshoppe.io).
 
 ## Setup
 Install the gems you need.
